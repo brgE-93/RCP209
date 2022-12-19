@@ -1,5 +1,6 @@
 # RCP209
 Apprentissage statistique : modélisation décisionnelle jupyter Notebook Python
+-------------
 réaliser une analyse des données et une modélisation décisionnelle permettant de répondre au problème posé.
 réalisation à l'aide du langage de programmation Python, en utilisant les bibliothèques logicielles Scikit-learn,Pandas ,Numpy ,Seaborn
 -------
